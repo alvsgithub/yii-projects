@@ -13,3 +13,5 @@ List of Yii projects and users to follow
 8. Chive              https://github.com/fusonic/chive
 9. Yii extensions repository      https://github.com/yiiext
 10. Zurmo CRM https://bitbucket.org/zurmo/zurmo
+11. Phundament https://github.com/phundament/app
+12. YiiPlayground https://github.com/erikuus/Yii-Playground
